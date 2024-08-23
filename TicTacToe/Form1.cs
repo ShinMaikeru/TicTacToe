@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//A simple game of tictactoe with UI using Windows Forms
+
 namespace TicTacToe
 {
     public partial class Form1 : Form
